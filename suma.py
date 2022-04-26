@@ -10,3 +10,9 @@ def func_suma(a, b):
 def func_diferencia(a, b):
     d = a - b
     return d
+
+def fun_division(a, b):
+    v = a / b
+    print(v)
+    return v
+
