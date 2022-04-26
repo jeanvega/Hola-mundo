@@ -1,4 +1,8 @@
 
+def func_multiply(a, b):
+    m = a * b
+    return m
+    
 def func_suma(a, b):
     c = a + b
     return c
