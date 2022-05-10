@@ -9,6 +9,7 @@ def func_suma(a, b):
 
 def func_diferencia(a, b):
     d = a - b
+    print(d)
     return d
 
 def fun_division(a, b):
